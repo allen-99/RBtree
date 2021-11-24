@@ -1,0 +1,9 @@
+﻿  rb_tree.cpp
+\\Mac\Home\Desktop\Учеба\Структуры данных\new_red_tree\help_me_rb_tree\rb_tree.cpp(11,2): warning C4091: typedef : пропускается слева от "Data", когда ни одна переменная не объявлена
+\\Mac\Home\Desktop\Учеба\Структуры данных\new_red_tree\help_me_rb_tree\rb_tree.cpp(290,51): warning C4018: <: несоответствие типов со знаком и без знака
+\\Mac\Home\Desktop\Учеба\Структуры данных\new_red_tree\help_me_rb_tree\rb_tree.cpp(290,113): warning C4018: <=: несоответствие типов со знаком и без знака
+\\Mac\Home\Desktop\Учеба\Структуры данных\new_red_tree\help_me_rb_tree\rb_tree.cpp(352,23): warning C4018: <: несоответствие типов со знаком и без знака
+\\Mac\Home\Desktop\Учеба\Структуры данных\new_red_tree\help_me_rb_tree\rb_tree.cpp(352,69): warning C4018: <: несоответствие типов со знаком и без знака
+\\Mac\Home\Desktop\Учеба\Структуры данных\new_red_tree\help_me_rb_tree\rb_tree.cpp(567,25): warning C4018: <: несоответствие типов со знаком и без знака
+\\Mac\Home\Desktop\Учеба\Структуры данных\new_red_tree\help_me_rb_tree\rb_tree.cpp(567,77): warning C4018: <: несоответствие типов со знаком и без знака
+  help_me_rb_tree.vcxproj -> \\Mac\Home\Desktop\Учеба\Структуры данных\new_red_tree\Debug\help_me_rb_tree.exe
